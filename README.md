@@ -31,9 +31,3 @@
     <img src="https://img.shields.io/static/v1?message=Quora&logo=quora&label=&color=B92B27&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Quora" />
   </a>
 </div>
-###
-
-<br clear="both">
-
-
-###
