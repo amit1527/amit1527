@@ -21,11 +21,14 @@
 
 ###
 <div align="left">
-  <a href="https://discord.com/users/amit_1525" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <a href="https://discord.com/users/amit_1527" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
-  <a href="https://www.linkedin.com/in/amit-k-6882b4345" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/amit1527" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://www.quora.com/profile/Amit-8321" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Quora&logo=quora&label=&color=B92B27&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Quora" />
   </a>
 </div>
 ###
